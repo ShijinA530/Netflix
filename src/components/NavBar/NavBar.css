@@ -6,12 +6,11 @@
     padding: 20px;
     display: flex;
     justify-content: space-between;
-    background-color: #111;
 }
 
 .logo{
     position: fixed;
-    left: 10px;
+    left: 20px;
     width: 80px;
 }
 
