@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netflix/static/css/main.37ca69ed.css",
+    "main.js": "/Netflix/static/js/main.0d8aa1d7.js",
+    "index.html": "/Netflix/index.html",
+    "main.37ca69ed.css.map": "/Netflix/static/css/main.37ca69ed.css.map",
+    "main.0d8aa1d7.js.map": "/Netflix/static/js/main.0d8aa1d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37ca69ed.css",
+    "static/js/main.0d8aa1d7.js"
+  ]
+}
